@@ -1,0 +1,4 @@
+# rolling-billiards
+
+Billiard systems may be regarded generally as models of mechanical systems in which rigid parts interact through elastic impulsive forces. A type of billiard system called no-slip has been use to account for linear/angular momentum exchange in collisions involving a spherical body, Based on an idea by Borisov, Kilin and Mamaev, we show that no-slip billiards very generally arise as limits rolling systems, similar to how ordinary billiards can be expressed as limits of geodesic flows through a
+flattening of the Riemannian manifold. We further develop this theory, to some extent, of rolling system on polygonal billiards. A more systematic dynamical theory for such system would be established and we'll find Lyapunov stability for these rolling systems, generalising the conclusion for the no-slip billiard cases. We will look at the hyperbolic and elliptical properties of the rolling systems, in the spirit of geodesic flows.
